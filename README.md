@@ -7,12 +7,6 @@ Since 2010, I've been immersed in tech innovation. From building ecosystems at m
 Fun Fact:
 Early in my career, I made a funny mistake by openly sharing everyone's contacts in a large working group. Lesson learned: Connect people carefully and for the right reasons.
 
-Gratitude:
-I'm grateful to Dragorad Knezi for his transformative vision in e-commerce, guiding me on an exciting journey with eyezon.
-
-Impactful Book:
-"Less Is More" has influenced me greatly, emphasizing the importance of human contact in brand-customer dialogue. Inspires me in our work at eyezon.
-
 Purpose-Driven Business:
 Started with a vision to transform how people access information and educate themselves. Now, eyezon aims to provide unique experiences and a live on-demand streaming platform.
 
