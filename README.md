@@ -9,14 +9,14 @@ I am actively seeking opportunities to contribute to outsourcing projects, lever
 
 Primary Tech Skills:
 
-Python 
-SQL
-Tableau
-Exsel & Google Sheets
-Ecosystem Omni-Channel Solutions
-Omni-Channel Digital Presence
-Live Streaming Technologies
-Customer Dialogue and Engagement
+|Python
+|SQL
+|Tableau
+|Exsel & Google Sheets
+|Ecosystem Omni-Channel Solutions
+|Omni-Channel Digital Presence
+|Live Streaming Technologies
+|Customer Dialogue and Engagement
 
 Purpose-Driven Business:
 Started with a vision to transform how people access information and educate themselves. Now, aim to provide unique experiences and a live on-demand streaming platform.
