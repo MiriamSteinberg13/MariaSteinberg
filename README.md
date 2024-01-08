@@ -2,13 +2,24 @@
 Tech innovator since 2010 | Co-founder at eyezon | Transformative tech enthusiast | Developing unique experiences for a live on-demand streaming platform | Connecting people and brands for industry change
 
 Background:
-Since 2010, I've been immersed in tech innovation. From building ecosystems at my first job to founding MT exclusive, a blend of a shoe company and creative consultancy, I've worked with major industry players. Now, as the Co-founder of eyezon, I focus on accelerating technological projects and developing transformative technologies for a live on-demand streaming platform.
+co-founder and operations at eyezon, the world’s first on-demand human centric social shopping platform. With 15 years experience working with innovative and technological projects.
 
-Fun Fact:
-Early in my career, I made a funny mistake by openly sharing everyone's contacts in a large working group. Lesson learned: Connect people carefully and for the right reasons.
+Participation in Outsourcing Projects:
+I am actively seeking opportunities to contribute to outsourcing projects, leveraging my extensive experience and skills to drive success in collaborative endeavors.
+
+Primary Tech Skills:
+
+Python 
+SQL
+Tableau
+Exsel & Google Sheets
+Ecosystem Omni-Channel Solutions
+Omni-Channel Digital Presence
+Live Streaming Technologies
+Customer Dialogue and Engagement
 
 Purpose-Driven Business:
-Started with a vision to transform how people access information and educate themselves. Now, eyezon aims to provide unique experiences and a live on-demand streaming platform.
+Started with a vision to transform how people access information and educate themselves. Now, aim to provide unique experiences and a live on-demand streaming platform.
 
 Exciting Projects:
 Launching eyezon UK office in Q1 2022, offering a range of products for touchpoint-agnostic live shopping experiences. New website to showcase on-demand live video shopping.
@@ -20,4 +31,4 @@ Creating a Culture of Innovation:
 It's about people. Motivate and support those ready to drive change in the company.
 
 Favorite Life Lesson Quote:
-"Do your best and leave the rest to faith." Faith opens up new and interesting scenarios.
+"Do your best and leave the rest to God." Faith opens up new and interesting scenarios.
